@@ -5,7 +5,7 @@ My name is Varun. I help organizations elevate their design maturity level by ad
 - 😄 Pronouns: he/him
 - 🌏 Website: https://varun.ca
 - 🔗 You can find me elsewhere on [twitter](https://twitter.com/winkerVSbecks) & [CodePen](https://codepen.io/winkerVSbecks)
-- 💬 Ask me about Components!
+- 💬 Ask me about design systems & components!
 - 🏕 I love exploring generative art. You can follow my progress here:
   - [sketchbook](https://github.com/winkerVSbecks/sketchbook)
   - [penplot-sketches](https://github.com/winkerVSbecks/penplot-sketches)
