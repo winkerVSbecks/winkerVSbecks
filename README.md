@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello 👋🏽
 
-<!--
-**winkerVSbecks/winkerVSbecks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Varun. I help organizations elevate their design maturity level by adopting more sophisticated design and development practices. With a background in engineering and creative coding, I specialize in design systems and computational design. Originally from New Delhi, I currently live in Toronto and am the Director of UI Architecture at [Rangle.io](https://rangle.io). In my spare time, I like to experiment with generative art, making triangles and other playful experiences for the web.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: he/him
+- 🌏 Website: https://varun.ca
+- 🔗 You can find me elsewhere on [twitter](https://twitter.com/winkerVSbecks) & [CodePen](https://codepen.io/winkerVSbecks)
+- 💬 Ask me about Components!
+- 🏕 I love exploring generative art. You can follow my progress here:
+  - [sketchbook](https://github.com/winkerVSbecks/sketchbook)
+  - [penplot-sketches](https://github.com/winkerVSbecks/penplot-sketches)
+  - [3d-sketches](https://github.com/winkerVSbecks/3d-sketches)
