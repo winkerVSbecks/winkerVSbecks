@@ -10,7 +10,7 @@ I help organizations elevate their design maturity level by adopting more sophis
 <table> 
 <thead> 
   <tr> 
-    <th style="width: 33.33%" align="center"><img src="3d-sketchbook.gif" style="max-width:100%;"></th> 
+    <th style="width: 33.33%" align="center"><img src="3d-sketchbook-1.gif" style="max-width:100%;"></th> 
     <th style="width: 33.33%" align="center"><img src="penplot-sketchbook-1.png" style="max-width:100%;"></th> 
     <th style="width: 33.33%" align="center"><img src="sketchbook.gif" style="max-width:100%;"></th> 
     </tr> 
