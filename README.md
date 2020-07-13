@@ -5,8 +5,21 @@ I help organizations elevate their design maturity level by adopting more sophis
 - 😄 Pronouns: he/him
 - 🌏 Website: https://varun.ca
 - 🔗 You can find me elsewhere on [twitter](https://twitter.com/winkerVSbecks) & [CodePen](https://codepen.io/winkerVSbecks)
-- 💬 Ask me about design systems & components!
-- 🏕 I love exploring generative art. You can follow my progress here:
-  - [sketchbook](https://github.com/winkerVSbecks/sketchbook)
-  - [penplot-sketches](https://github.com/winkerVSbecks/penplot-sketches)
-  - [3d-sketches](https://github.com/winkerVSbecks/3d-sketches)
+- 💬 Ask me about creative coding, design systems & components!
+
+<table> 
+<thead> 
+  <tr> 
+    <th align="center"><img src="3d-sketchbook.gif" style="max-width:100%;"></th> 
+    <th align="center"><img src="penplot-sketchbook.png" style="max-width:100%;"></th> 
+    <th align="center"><img src="sketchbook.gif" style="max-width:100%;"></th> 
+    </tr> 
+    </thead> 
+  <tbody> 
+    <tr> 
+      <td align="center"><a href="https://github.com/winkerVSbecks/sketchbook">Sketches</a></td> 
+      <td align="center"><a href="https://github.com/winkerVSbecks/penplot-sketches">Penplot Sketches</a></td> 
+      <td align="center"><a href="https://github.com/winkerVSbecks/3d-sketches">3D Sketches</a></td> 
+    </tr> 
+  </tbody> 
+</table>
