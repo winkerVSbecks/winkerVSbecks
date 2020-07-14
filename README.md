@@ -4,7 +4,7 @@ I help organizations elevate their design maturity level by adopting more sophis
 
 - 😄 Pronouns: he/him
 - 🌏 Website: https://varun.ca
-- 🔗 You can find me elsewhere on [twitter](https://twitter.com/winkerVSbecks) & [CodePen](https://codepen.io/winkerVSbecks)
+- 🔗 You can find me elsewhere on [Twitter](https://twitter.com/winkerVSbecks), [CodePen](https://codepen.io/winkerVSbecks) & [Dribbble](https://dribbble.com/winkerVSbecks)
 - 💬 Ask me about creative coding, design systems & components!
 
 <table> 
