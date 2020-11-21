@@ -1,6 +1,6 @@
 ### Hello, I'm Varun 👋🏽
 
-I'm a developer with a strong focus on design, interactivity and animation. With a background in engineering and creative coding, I specializes in component-driven development, design systems and computational design. Originally from New Delhi, I currently live in Toronto and am a DX Engineer at [Chromatic](https://www.chromatic.com). In my spare time, I like to experiment with generative art, making triangles and other playful experiences for the web.
+I'm a developer with a strong focus on design, interactivity and animation. With a background in engineering and creative coding, I specialize in component-driven development, design systems and computational design. Originally from New Delhi, I currently live in Toronto and am a DX Engineer at [Chromatic](https://www.chromatic.com). In my spare time, I like to experiment with generative art, making triangles and other playful experiences for the web.
 
 - 😄 Pronouns: he/him
 - 🌏 Website: https://varun.ca
