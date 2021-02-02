@@ -1,8 +1,12 @@
-<img src="https://raw.githubusercontent.com/winkerVSbecks/winkerVSbecks/master/image_processing20201230-3443-1f52k3g.gif" width="400 px" height="300px" />
+<img src="https://raw.githubusercontent.com/winkerVSbecks/winkerVSbecks/master/Varun%20Vachhar%20Toy%20Small.png" width="100 px" height="100px" style="border-radius: 100%" />
 
 ### Hello, I'm Varun 👋🏽
 
-I'm a DX Engineer at [Chromatic](https://www.chromatic.com) and a contributor to [Storybook](https://storybook.js.org/). I specialize in component-driven development, design systems and creative coding.
+I'm a DX Engineer at [Chromatic](https://www.chromatic.com) and a contributor to [Storybook](https://storybook.js.org/). I specialize in [component-driven](https://componentdriven.org/) development, design systems and generative art.
 
 
-I love [blogging](https://varun.ca/writing) about creative coding from a front-end developer's perspective.
+I love writing about creative coding and front-end developerment. You can find my work on:
+
+* [varun.ca/writing](https://varun.ca/writing/)
+* [Ink](https://www.chromatic.com/blog/)
+* [Storybook blog](https://storybook.js.org/blog/)
