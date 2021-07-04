@@ -8,5 +8,5 @@ I'm a DX Engineer at [Chromatic](https://www.chromatic.com) and a contributor to
 I love writing about creative coding and front-end developerment. You can find my work on:
 
 * [varun.ca/writing](https://varun.ca/writing/)
-* [Ink](https://www.chromatic.com/blog/)
 * [Storybook blog](https://storybook.js.org/blog/)
+* [Ink](https://www.chromatic.com/blog/)
